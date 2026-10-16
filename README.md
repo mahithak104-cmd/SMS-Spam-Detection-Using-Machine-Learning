@@ -123,11 +123,6 @@ This project gave me hands-on experience applying NLP and machine learning to te
 
 By comparing multiple algorithms and experimenting with balanced class weights, I explored different approaches to improving SMS spam detection. The project provides a foundation for developing more advanced text classification systems and experimenting with additional feature engineering and model optimization.
 
-## Author
+## Connect with Me
 
-Mahitha Kalinathabotla
-
-Master of Science in Business Analytics  
-University at Albany, SUNY
-
-GitHub: https://github.com/mahithak104-cmd
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mahitha-kalinathabotla/)
